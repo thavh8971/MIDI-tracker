@@ -1,0 +1,28 @@
+Contains:
+The GUI(gui.py)
+The core(tracker_core.py)
+The engine(engine.py)
+The MIDI module(midi.py)
+The MIDI import module(midi_import.py)
+The MIDI import mode of tracker(run_with_midi_import.py)
+
+Usage:
+Blank start:In the same dir of the tracker files, run:
+MacOS:python3 gui.py
+Windows:py gui.py
+
+Start with an MIDI file:
+MacOS:python3 run_with_midi_import.py "your_midi_file.mid"
+Windows:py run_with_midi_import.py "your_midi_file.mid"
+*The MIDI also in same dir of tracker files
+
+You need:
+-PySide6
+-mido
+-sf2util(note:under construction, sf2util still cannot import properly.)
+-fluidsynth(both python and main FluidSynth)
+
+Note:
+-Still cannot export tracker files
+-Cannot use multithread of CPUs
+-Freely modify this and release it again.
