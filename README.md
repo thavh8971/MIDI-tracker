@@ -1,3 +1,6 @@
+*As an new Python learned, most of the code are AI-made, so if anyone have an proper courses of Python for me, please share it, lessons on internet are sometimes lame in Vietnam(not an country self disrespect, but I see that there is nearly no free lessons that properly teaches me.)*
+
+
 Contains:
 
 The GUI(gui.py)
