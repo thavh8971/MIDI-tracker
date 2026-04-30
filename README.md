@@ -17,3 +17,6 @@ Though, there is many features inside
 7: And many control changes function adjustings
 
 Well, I am 15yo, what'd you expect it to be serious? High-school entrance exam is literally chasing and hunting me down lol
+
+
+Previous version: literal kiddo's code, what'd you expect?
