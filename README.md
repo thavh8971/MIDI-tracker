@@ -19,7 +19,7 @@ Though, there is many features inside
 Well, I am 15yo, what'd you expect it to be serious? High-school entrance exam is literally chasing and hunting me down lol
 
 
-Previous version: literal kiddo's claude opus 4 generated code from free zeroeval's credits, what'd you expect?
+The first version: literal kiddo's claude opus 4 generated code from free zeroeval's credits, what'd you expect?
 
 Update:v2.2
 
