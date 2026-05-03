@@ -27,9 +27,10 @@ The v2.1 was just a reinforce step for this, so v2.1 is not as reliable as this
 
 Tracker:Completed
 
-Additional Features: "Piano" Roll(Piano Keyboard instead of that line)
+Additional Features: "Piano" Roll(Piano Keyboard instead of that industrial line, though still "industrial" =) )
 
-More NES chips(S5B,FDS,MMC5)
+More NES sound synthesizing of more chips(S5B,FDS,MMC5)
 
 
-Fixed WAV and MID export
+
+Fixed WAV and MID exportings
