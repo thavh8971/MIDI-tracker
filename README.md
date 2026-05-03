@@ -34,3 +34,5 @@ More NES sound synthesizing of more chips(S5B,FDS,MMC5)
 
 
 Fixed WAV and MID exportings
+
+Made by MUCH MORE AGENTS(though it was acc cheating to milk those capitalist till dry =) )
