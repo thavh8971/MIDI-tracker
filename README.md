@@ -45,3 +45,5 @@ Nothing more
 Update:v2.4:
 
 More Accurate NES sound sythesizer
+
+Repaired tracker
