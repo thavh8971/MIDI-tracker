@@ -39,6 +39,7 @@ Made by MUCH MORE AGENTS(though it was acc cheating to milk those capitalist til
 Update:v2.3:
 
 Added Oscilloscope
+
 Nothing more
 
 Update:v2.4:
