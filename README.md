@@ -31,8 +31,16 @@ Additional Features: "Piano" Roll(Piano Keyboard instead of that industrial line
 
 More NES sound synthesizing of more chips(S5B,FDS,MMC5)
 
-
-
 Fixed WAV and MID exportings
 
 Made by MUCH MORE AGENTS(though it was acc cheating to milk those capitalist till dry =) )
+
+
+Update:v2.3:
+
+Added Oscilloscope
+Nothing more
+
+Update:v2.4:
+
+More Accurate NES sound sythesizer
