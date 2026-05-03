@@ -20,3 +20,16 @@ Well, I am 15yo, what'd you expect it to be serious? High-school entrance exam i
 
 
 Previous version: literal kiddo's claude opus 4 generated code from free zeroeval's credits, what'd you expect?
+
+Update:v2.2
+
+The v2.1 was just a reinforce step for this, so v2.1 is not as reliable as this
+
+Tracker:Completed
+
+Additional Features: "Piano" Roll(Piano Keyboard instead of that line)
+
+More NES chips(S5B,FDS,MMC5)
+
+
+Fixed WAV and MID export
