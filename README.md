@@ -25,7 +25,7 @@ Update:v2.2
 
 The v2.1 was just a reinforce step for this, so v2.1 is not as reliable as this
 
-Tracker:Partially completed
+Tracker:Nein beyond row 65 :)
 
 Additional Features: "Piano" Roll(Piano Keyboard instead of that industrial line, though still "industrial" =) )
 
